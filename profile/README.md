@@ -3,11 +3,11 @@
 **Visit:** [srilankainvestmentforum.com](https://srilankainvestmentforum.com)
 
 <p align="center">
-  <img src="./img/slif-logo.png" alt="Sri Lanka Investment Forum logo" width="220" />
+  <img src="../img/slif-logo.png" alt="Sri Lanka Investment Forum logo" width="220" />
 </p>
 
 <p align="center">
-  <img src="./img/herobg.png" alt="Sri Lanka Investment Forum hero visual" width="100%" />
+  <img src="../img/herobg.png" alt="Sri Lanka Investment Forum hero visual" width="100%" />
 </p>
 
 The **Sri Lanka Investment Forum 2026** is a premier platform bringing together investors, policymakers, business leaders, and development partners to explore the next chapter of Sri Lanka's growth story.
@@ -31,7 +31,7 @@ The forum offers a focused opportunity to:
 - build relationships through strategic networking and B2B engagement
 - explore partnerships that support sustainable and inclusive growth
 
-## What to Expect
+## What To Expect
 
 Attendees can expect a dynamic programme built around:
 
@@ -74,10 +74,10 @@ Key sector conversations are expected to include:
 
 Hosted at **Cinnamon Life, Colombo**, the forum provides a world-class setting for dialogue, deal-making, and international engagement in the heart of Sri Lanka's commercial capital.
 
-## Join the Forum
+## Join The Forum
 
 Sri Lanka Investment Forum 2026 is positioned as a gateway to meaningful conversations, practical investment opportunities, and long-term partnerships.
 
 For registration and participation details:
 
-**Visit:** <https://srilankainvestmentforum.com>>
+**Visit:** <https://srilankainvestmentforum.com>
